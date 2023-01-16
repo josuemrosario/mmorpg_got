@@ -1,0 +1,25 @@
+84. Download de arquivos estáticos (assets) e HTML
+==================================================
+- Aula apenas para fazer download de arquivos
+
+85. Ajustando routes e views
+============================
+- Configurado todos os arquivos de projetos baixados na aula anterior
+- Alterado extensão de todas as views para ejs
+- Criado e configurado mais 2 rotas jogo e cadastro
+- Excluido node_modules e reinstalado
+NPM INSTALL
+- Criado start_mongod.bat que inicia mongodb
+
+86. Ajustando routes e controllers
+==================================
+87. Tela de cadastro de usuários - recebendo e validando dados
+==============================================================
+88. NPM - Instalando o módulo de conexão com o MongoDB
+======================================================
+89. NodeJS e MongoDB - Configurando a conexão com o banco de dados
+==================================================================
+90. Cadastrando usuários
+========================
+91. Opcional - Download dos arquivos MMORPG GOT
+===============================================
