@@ -10,6 +10,7 @@
 - Excluido node_modules e reinstalado
 NPM INSTALL
 - Criado start_mongod.bat que inicia mongodb
+- Criado repositório e editado readme.md
 
 86. Ajustando routes e controllers
 ==================================
